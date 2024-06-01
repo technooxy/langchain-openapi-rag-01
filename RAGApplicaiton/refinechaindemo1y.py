@@ -16,6 +16,7 @@ import os
 # os.environ["AZURE_OPENAI_ENDPOINT"] ='https://rag-dev-001.openai.azure.com/'
 # os.environ["AZURE_OPENAI_DEPLOYMENT_NAME"] ='rag-dev-35trubo16k-001'
 
+
 #llm=ChatOpenAI()
 
 llm = AzureChatOpenAI(
