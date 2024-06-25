@@ -5,6 +5,9 @@ name = "pypi"
 
 [packages]
 langchain = "*"
+gtts = "*"
+google-cloud = "*"
+"azure.cognitiveservices.speech" = "*"
 
 [dev-packages]
 

@@ -1,6 +1,7 @@
 def test():
     print ("testing the functions")
 
+test()
 # llm = AzureChatOpenAI(
 #     deployment_name="gpt-35-turbo-16k",
 #     model_name="gpt-35-turbo-16k"
